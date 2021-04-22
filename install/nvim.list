@@ -1,0 +1,10 @@
+npm i -g pyright bash-language-server typescript typescript-language-server vim-language-server
+sudo apt install fd-find ripgrep
+vscode-html-languageserver-bin
+shellcheck
+npm install -g vscode-html-languageserver-bin
+sudo apt install tidy
+npm install -g vscode-css-languageserver-bin
+npm install -g stylelint
+npm install -g jsonlint vscode-json-languageserver
+sudo apt install ccls
